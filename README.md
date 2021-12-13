@@ -1,5 +1,7 @@
 # dul_2021
 
-HW1: done
-HW2: done
-HW3: in progress
+HW1: DONE  
+HW2: DONE  
+HW3: DONE  
+HW5: IN PROGRESS  
+HW6: IN PROGRESS   
