@@ -1,3 +1,3 @@
 # dul_2021
 
-Homeworks deep unsupervised learning HSE course
+Homeworks from deep unsupervised learning HSE course
